@@ -31,5 +31,6 @@ The Tkinter Calculator is a user-friendly desktop application developed in Pytho
 
   • 	Event Handling: Use of callback functions to handle button clicks and perform calculations.
 ## GUI
-      ![calculator](https://github.com/user-attachments/assets/b2d6a26f-19df-46e3-b541-56143fd1fd3e)
+      ![image](https://github.com/user-attachments/assets/4eec563b-3936-472a-8de9-02b37ab8dab4)
+
 
